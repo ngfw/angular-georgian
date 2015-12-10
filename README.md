@@ -14,7 +14,7 @@ angular.module('yourApp', ['georgian']);
 
 2- დავამატოთ ახალი ატრიბუტი
 ```html
-<input type="text" georgian/>
+<input type="text" ng-model="obj.text" georgian/>
 ```
 
 დემოსტრაციისთვის იხილეთ:
