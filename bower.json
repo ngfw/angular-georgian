@@ -1,0 +1,26 @@
+{
+  "name": "angular-georgian",
+  "homepage": "https://github.com/ngfw/angular-georgian",
+  "authors": [
+    "Nick G <gejadze@gmail.com>"
+  ],
+  "description": "#წერექართულად Angular.js-ით",
+  "main": "ng-georgian.js",
+  "keywords": [
+    "წერექართულად",
+    "Angular.js",
+    "ქართული",
+    "Georgian"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5"
+  },
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
